@@ -1,3 +1,0 @@
- use array.length - 1 when you want to exclude the last element while performing certain operations, 
- and 
- array.length when you want to iterate over all elements including the last one.
